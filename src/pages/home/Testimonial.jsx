@@ -13,6 +13,8 @@ import Rating from '../../components/Rating';
 // import required modules
 import { Navigation } from 'swiper/modules';
 
+import '../../App.css'
+
 const Testimonial = () => {
   return (
     <section className='section-container my-24'>
