@@ -1,5 +1,5 @@
 <h2>Project link</h2>
-https://furniture-web-ixe9-ndf7haifu-jannatul-ferdoushis-projects.vercel.app/
+https://furniture-web-joi8.vercel.app/
 
 
 # React + Vite
