@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from './Hero'
-import WhyChooseUs from './whyChooseUs'
+import WhyChooseUs from './whyChooseUs.jsx'
 import Products from '../shop/Products'
 import Exprience from './Exprience'
 import Meterials from './Meterials'
