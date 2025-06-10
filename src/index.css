@@ -19,7 +19,7 @@
 
 .swiper-button-prev:after,
 .swiper-button-next:after {
-  @apply w-10 h-10 leading-3  px-2 py-2 ring-2 ring-primary hover:text-white hover:bg-primary rounded-full bg-white text-black;
+  @apply w-10 h-10 leading-3  px-4 py-2 ring-2 ring-primary hover:text-white hover:bg-primary rounded-full bg-white text-black;
 }
 
 
